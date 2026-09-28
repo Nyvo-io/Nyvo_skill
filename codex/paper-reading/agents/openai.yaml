@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Reading"
+  short_description: "论文精读、证据核对与中文学习笔记，支持掌握验证和跨会话恢复"
+  default_prompt: "使用 $paper-reading 精读这篇论文，先读取原文和已有进度，再讲解当前单元并维护中文笔记。"

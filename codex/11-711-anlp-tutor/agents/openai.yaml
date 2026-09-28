@@ -1,0 +1,7 @@
+interface:
+  display_name: "11-711 ANLP Tutor"
+  short_description: "Teach CMU 11-711 from verified local course sources."
+  default_prompt: "Use $11-711-anlp-tutor to continue my 11-711 study from the local course files and maintain precise notes."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Keel Architecture"
+  short_description: "设计和审查架构边界、责任归属、恢复、迁移与长期治理"
+  default_prompt: "使用 $keel 审查这个系统的架构边界、所有权、恢复路径和演化风险。"

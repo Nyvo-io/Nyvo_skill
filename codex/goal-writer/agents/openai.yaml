@@ -1,0 +1,7 @@
+interface:
+  display_name: "Goal Writer"
+  short_description: "把模糊意图整理成精简、可验证且可直接执行的目标契约"
+  default_prompt: "使用 $goal-writer 把我的想法整理成最小、可验证的执行目标。"
+
+policy:
+  allow_implicit_invocation: false

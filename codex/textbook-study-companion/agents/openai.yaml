@@ -1,0 +1,4 @@
+interface:
+  display_name: "教材学习伴侣"
+  short_description: "Persistent textbook study with progress and practice records"
+  default_prompt: "Use $textbook-study-companion to continue my textbook study."

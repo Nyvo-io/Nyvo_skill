@@ -1,0 +1,7 @@
+interface:
+  display_name: "Course Study Tutor"
+  short_description: "Teach courses with Markdown notes."
+  default_prompt: "Use $course-study-tutor to teach this course from local files, one lecture at a time, with concise interaction and complete Markdown notes."
+
+policy:
+  allow_implicit_invocation: true

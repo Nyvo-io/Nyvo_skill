@@ -1,0 +1,7 @@
+interface:
+  display_name: "CS234 RL Tutor"
+  short_description: "Teach CS234 with clear, source-faithful notes."
+  default_prompt: "Use $cs234-rl-tutor to teach the next CS234 topic with proportional depth, narrative-first algorithm walkthroughs, and durable linked notes."
+
+policy:
+  allow_implicit_invocation: true
